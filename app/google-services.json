@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "795551567542",
+    "firebase_url": "https://modul6-2.firebaseio.com",
+    "project_id": "modul6-2",
+    "storage_bucket": "modul6-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795551567542:android:16432e1f23f9ebdc",
+        "android_client_info": {
+          "package_name": "com.naufalcahyo.modul6.coba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795551567542-qvrvg2iljc1lh72m2tsvlt3ejg7tufv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPwHwVS4eMgy1H8ckMbMyTSJBRZsu_A8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
